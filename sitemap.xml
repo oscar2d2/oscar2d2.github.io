@@ -18,11 +18,27 @@
   </url>
   
   <url>
-    <loc>https://oscar2d2.github.io/categories/</loc>
+    <loc>https://oscar2d2.github.io/tags/reading/</loc>
+    <lastmod>2020-05-31T19:50:14+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://oscar2d2.github.io/tags/restful/</loc>
+    <lastmod>2020-05-31T19:50:14+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://oscar2d2.github.io/tags/</loc>
+    <lastmod>2020-05-31T19:50:14+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://oscar2d2.github.io/tags/upload-file/</loc>
+    <lastmod>2020-05-31T19:50:14+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://oscar2d2.github.io/categories/</loc>
   </url>
   
 </urlset>

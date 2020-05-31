@@ -17,7 +17,8 @@
       <pubDate>Sun, 31 May 2020 19:50:14 +0800</pubDate>
       
       <guid>https://oscar2d2.github.io/posts/my-first-post/</guid>
-      <description>How to upload file via restful api</description>
+      <description>Learn about multipart/form-data
+How to upload file via restful api</description>
     </item>
     
   </channel>
