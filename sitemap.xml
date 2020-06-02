@@ -3,17 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://oscar2d2.github.io/posts/my-first-post/</loc>
-    <lastmod>2020-05-31T19:50:14+08:00</lastmod>
+    <loc>https://oscar2d2.github.io/posts/20200602/</loc>
+    <lastmod>2020-06-02T21:39:31+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://oscar2d2.github.io/tags/consistent-hashing/</loc>
+    <lastmod>2020-06-02T21:39:31+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://oscar2d2.github.io/tags/distributed-system/</loc>
+    <lastmod>2020-06-02T21:39:31+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://oscar2d2.github.io/</loc>
-    <lastmod>2020-05-31T19:50:14+08:00</lastmod>
+    <lastmod>2020-06-02T21:39:31+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://oscar2d2.github.io/posts/</loc>
+    <lastmod>2020-06-02T21:39:31+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://oscar2d2.github.io/tags/</loc>
+    <lastmod>2020-06-02T21:39:31+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://oscar2d2.github.io/posts/my-first-post/</loc>
     <lastmod>2020-05-31T19:50:14+08:00</lastmod>
   </url>
   
@@ -24,11 +44,6 @@
   
   <url>
     <loc>https://oscar2d2.github.io/tags/restful/</loc>
-    <lastmod>2020-05-31T19:50:14+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://oscar2d2.github.io/tags/</loc>
     <lastmod>2020-05-31T19:50:14+08:00</lastmod>
   </url>
   
